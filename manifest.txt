@@ -1,4 +1,4 @@
-adminupdate|467|modules/adminupdate.zip|AdminUpdate|24162
+adminupdate|468|modules/adminupdate.zip|AdminUpdate|23962
 zygisksu|302|modules/neozygisk.zip|NeoZygisk|2486536
 zygisk_nohello|53|modules/nohello.zip|Nohello|555553
 playintegrityfix|190001|modules/playintegrityfix.zip|Play Integrity Fork|327277
