@@ -1,4 +1,5 @@
-adminupdate|456|modules/adminupdate.zip|AdminUpdate|22497
+adminupdate|457|modules/adminupdate.zip|AdminUpdate|22508
 zygisksu|290|modules/neozygisk.zip|NeoZygisk|600696
 playintegrityfix|190001|modules/playintegrityfix.zip|Play Integrity Fork|327277
 tricky_store|283|modules/tricky_store.zip|TEESimulator-RS|2756169
+zygisk-assistant|214|modules/zygisk-assistant.zip|Zygisk Assistant|391632
