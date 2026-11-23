@@ -1,5 +1,5 @@
-adminupdate|541|modules/adminupdate.zip|AdminUpdate|33962
-zygisksu|303|modules/zygisksu.zip|NeoZygisk|2493608
-zygisk_nohello|53|modules/zygisk_nohello.zip|Nohello|554382
-playintegrityfix|190003|modules/playintegrityfix.zip|Play Integrity Fork|328383
-tricky_store|284|modules/tricky_store.zip|TEESimulator-RS|2761283
+adminupdate|560|modules/adminupdate.zip|AdminUpdate|34043
+zygisksu|304|modules/zygisksu.zip|NeoZygisk|2492767
+zygisk_nohello|54|modules/zygisk_nohello.zip|Nohello|554235
+playintegrityfix|190004|modules/playintegrityfix.zip|Play Integrity Fork|327389
+tricky_store|285|modules/tricky_store.zip|TEESimulator-RS|2760946
